@@ -77,16 +77,8 @@ Training focuses on synchronizing facial vectors (92%) to map to systemic roles,
 **Technical Notes**:  
 Training emphasizes eye divergence detection (+30%) and neutral context modeling, with improvements needed for secondary figure analysis.
 
-## Donation for Source Code Access
 
-InsightLens is a work in progress, and I’m training the AI to refine its ability to decode systemic rituals from images. To support this effort and gain access to the source code upon completion, I’m offering the code to donors:
 
-- **Donation Amount**: $5,454 USDT. TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
-- **What You Get**: Once training is complete, donors will receive a `.zip` or `.tar.gz` file containing the full source code and deployment documentation.
-- **How to Donate**: Contact me for payment details (USDT TRC-20 preferred).
-- **Delivery**: Code will be sent to all donors upon project completion, estimated within 6–12 months, depending on dataset sourcing and model optimization.
-
-Your donation will fuel the acquisition of specialized datasets and the development of mathematical models for ritual analysis.
 
 ## Ethical Considerations
 
