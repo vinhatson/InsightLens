@@ -175,7 +175,7 @@ InsightLens detects high synchronization across A’s face, posture, and context
 | Package            | Price       | Benefits                                                                 | Availability                     |
 |--------------------|-------------|--------------------------------------------------------------------------|----------------------------------|
 | Non-Exclusive      | $54,000     | Full ownership of source code. Free to modify, distribute, commercialize. | Limited to 10 buyers; closes after 10 sales. |
-| Full Exclusive     | $540,000    | Permanent sole ownership. No further sales to others.                     | Only 1 buyer.                    |
+| Full Exclusive     | $460,000    | Permanent sole ownership. No further sales to others.                     | Only 1 buyer.                    |
 
 ### Buyer Rights
 Regardless of the package purchased, buyers receive full rights to:
