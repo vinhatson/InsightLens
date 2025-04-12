@@ -1,4 +1,4 @@
-# **InsightLens** is a conceptual system designed to analyze static images in high-stakes scenarios, identifying systemic roles and social ritual meanings through facial expressions, posture, and context at a fixed temporal snapshot.
+
 
 ## Overview
 
